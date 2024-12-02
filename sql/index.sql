@@ -1,4 +1,5 @@
 --Create a database for a family.
+SHOW DATABASES LIKE 'family';
 
 --Create a table for the family members with name, surname, date_of_birth, id (autoincremented primary key) (your family).
 DESCRIBE family.members;
